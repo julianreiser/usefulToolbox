@@ -37,4 +37,4 @@ While not strictly necessary, the following MATLAB toolboxes can enhance functio
 - usefulQuickPrepro.m - quick-and-dirty preprocessing for data measured during the workshop at the mbt conference 3.0 (see examplary data)
 
 # Examplary data to try the code
-Examplary data (recorded at the [Real-time neuroergonomics workshop at the 2025 mbt conference](https://mbraintrain.com/methods-in-mobile-eeg-conference/mbt%20Conference%202025%20program.pdf)) to try out the functions can be found [here](https://nextcloud.mbraintrain.com/s/GgCqTpkHmxedjGs)
+Examplary data (recorded at the Real-time neuroergonomics workshop at the 2025 mbt conference (see presentations folder for the workshop materials) to try out the functions can be found [here](https://nextcloud.mbraintrain.com/s/GgCqTpkHmxedjGs)
