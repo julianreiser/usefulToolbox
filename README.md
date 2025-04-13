@@ -26,10 +26,10 @@ MATLAB toolbox with useful functions for EEG / physiological analysis.
  
 ### Recommended MATLAB Toolboxes
 While not strictly necessary, the following MATLAB toolboxes can enhance functionality and performance:
-	•	Signal Processing Toolbox: Improves filtering and spectral analysis operations. ￼
-	•	Statistics and Machine Learning Toolbox: Provides advanced statistical functions. ￼
-	•	Optimization Toolbox: Useful for certain EEGLAB extensions and advanced analyses.
-	•	Image Processing Toolbox: Required by some EEGLAB extensions like FieldTrip. ￼
+- Signal Processing Toolbox: Improves filtering and spectral analysis operations. ￼
+- Statistics and Machine Learning Toolbox: Provides advanced statistical functions. ￼
+- Optimization Toolbox: Useful for certain EEGLAB extensions and advanced analyses.
+- Image Processing Toolbox: Required by some EEGLAB extensions like FieldTrip. ￼
 
 # Functions:
 - usefulLslAlign.m - import multiple LSL streams and/or local files (.edf, .bdf, .xdf, .xlsx) and merge them into an EEGLAB-compatible EEG struct for multimodal neuroimaging data analysis.
