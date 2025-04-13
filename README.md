@@ -4,23 +4,23 @@ MATLAB toolbox with useful functions for EEG / physiological analysis.
 # Prerequisites
 ### Core Requirements
 1. MATLAB
-	•	Ensure you have MATLAB R2008b (7.6) or later installed.
-	•	While EEGLAB functions can run on Octave, full compatibility and GUI support are best with MATLAB.
+ - Ensure you have MATLAB R2008b (7.6) or later installed.
+ - While EEGLAB functions can run on Octave, full compatibility and GUI support are best with MATLAB.
 2. EEGLAB (2021.1 or newer)
-	•	Download from the EEGLAB website. ￼
-	•	EEGLAB is essential for EEG data processing and provides a framework for various plugins and toolboxes.
+ - Download from the EEGLAB website. ￼
+ - EEGLAB is essential for EEG data processing and provides a framework for various plugins and toolboxes.
 
 ### Essential EEGLAB Plugins
 1. MoBILAB
   - Facilitates importing and synchronizing multimodal data, including XDF files.
   - Install via EEGLAB’s plugin manager or download from the MoBILAB GitHub repository. ￼
-3. XDF Import Plugin
+2. XDF Import Plugin
   - Enables loading of XDF files recorded with LabRecorder.
   - Available through EEGLAB’s plugin manager.
-4. BIOSIG Toolbox
+3. BIOSIG Toolbox
 	- Supports importing various EEG data formats such as BDF and EDF.
 	- Can be installed via EEGLAB’s plugin manager. ￼
-5. bva-io Plugin (Optional)
+4. bva-io Plugin (Optional)
 	- Useful if you plan to export data to BrainVision Analyzer format. ￼
 	- Install through EEGLAB’s plugin manager.
  
