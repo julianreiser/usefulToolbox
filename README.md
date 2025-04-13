@@ -34,6 +34,7 @@ While not strictly necessary, the following MATLAB toolboxes can enhance functio
 # Functions:
 - usefulLslAlign.m - import multiple LSL streams and/or local files (.edf, .bdf, .xdf, .xlsx) and merge them into an EEGLAB-compatible EEG struct for multimodal neuroimaging data analysis.
 - usefulMergePupil.ipynb - merge pupil labs recordings from the xdf file with the downloaded pupil cloud files automatically
+- usefulQuickPrepro.m - quick-and-dirty preprocessing for data measured during the workshop at the mbt conference 3.0 (see examplary data)
 
 # Examplary data to try the code
 Examplary data (recorded at the [Real-time neuroergonomics workshop at the 2025 mbt conference](https://mbraintrain.com/methods-in-mobile-eeg-conference/mbt%20Conference%202025%20program.pdf)) to try out the functions can be found [here](https://nextcloud.mbraintrain.com/s/GgCqTpkHmxedjGs)
