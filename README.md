@@ -1,5 +1,5 @@
-# usefulToolbox
-MATLAB toolbox with useful functions for EEG / physiological analysis.
+# mbt Conference 3.0 Workshop - Real-time neuroergonomics
+Workshop slides and MATLAB code with useful functions for EEG / physiological analysis.
  
 # Prerequisites
 ### Core Requirements
