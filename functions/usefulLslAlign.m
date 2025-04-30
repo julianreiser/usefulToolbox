@@ -8,7 +8,7 @@
 % NOTE: if you want to include pupil labs, make sure that you run the
 % python script to create a mergable file before.
 %
-% Author: Julian Elias Reiser, 2025-04-10
+% Author: Julian Elias Reiser & Emma Lieker, 2025-04-10
 
 %% Define paths
 clear all
